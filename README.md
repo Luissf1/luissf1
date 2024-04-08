@@ -3,7 +3,7 @@
 ## Hello World 👋
 ✨*Luis Adrian Silva*✨
 - 💻Computer System Engineer
-- 👨‍💻Software Developer and Web Developer 
+- 👨‍💻Software and Web Developer 
 - Data Analyst
 
 
