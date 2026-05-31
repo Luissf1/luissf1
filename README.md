@@ -56,7 +56,7 @@
 ## 📫 Let's Connect
 
 - 📧 luis.silva1252@gmail.com
-- 💼 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/luis-silva-150bbb19b/?locale=es)) 
+- 💼 [https://linkedin.com/in/yourusername](https://www.linkedin.com/in/luis-silva-150bbb19b/?locale=es] 
 - 🌐 [https://luissilvaportfolio.netlify.app/] 
 
 ---
